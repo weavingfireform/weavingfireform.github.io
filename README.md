@@ -1,5 +1,4 @@
-**Weaving Fire into Form** : *Aspirations for Tangible and Embodied Interaction*
-
+**Weaving Fire into Form** : *Aspirations for Tangible and Embodied Interaction*  
 Book authors: 
   [Brygg Ullmer](https://computing.clemson.edu/~bullmer), 
   [Orit Shaer](http://cs.wellesley.edu/~oshaer/), 
@@ -20,4 +19,6 @@ Web companion entries
 * [ch5/figs/a1](ch5/figs/a1.md) : Magnetic sensors
 * [ch5/figs/a2](ch5/figs/a2.md) : Capacitive sensing
 * [ch5/figs/a3](ch5/figs/a3.md) : Infrared non-contact sensors
+* [ch5/figs/a4](ch5/figs/a4.md) : Early active visual signalling
+* [ch5/figs/a5](ch5/figs/a5.md) : Ganged illumination variants
 
