@@ -1,5 +1,11 @@
 **Weaving Fire into Form** : *Aspirations for Tangible and Embodied Interaction*
 
+Book authors: 
+  [Brygg Ullmer](https://computing.clemson.edu/~bullmer), 
+  [Orit Shaer](http://cs.wellesley.edu/~oshaer/), 
+  [Ali Mazalek](https://www.torontomu.ca/rta/people/faculty/ali-mazalek/), 
+  and 
+  [Caroline Hummels](https://www.tue.nl/en/research/researchers/caroline-hummels/)
 
 Web companion entries
 =====================
