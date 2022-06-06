@@ -21,4 +21,6 @@ Web companion entries
 * [ch5/figs/a3](ch5/figs/a3.md) : Infrared non-contact sensors
 * [ch5/figs/a4](ch5/figs/a4.md) : Early active visual signalling
 * [ch5/figs/a5](ch5/figs/a5.md) : Ganged illumination variants
+* [ch5/figs/a6](ch5/figs/a6.md) : Small and large pixelated displays
+* [ch5/figs/a7](ch5/figs/a7.md) : Olfactory technology examples
 
