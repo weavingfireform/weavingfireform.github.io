@@ -7,8 +7,8 @@ Book authors:
   and 
   [Caroline Hummels](https://www.tue.nl/en/research/researchers/caroline-hummels/)
 
-ACM "Weaving Fire Into Form" Web companions
-===========================================
+Web companion entries
+=====================
 
 *Chapter 1*
 
@@ -19,4 +19,5 @@ ACM "Weaving Fire Into Form" Web companions
 
 * [ch5/figs/a1](ch5/figs/a1.md) : Magnetic sensors
 * [ch5/figs/a2](ch5/figs/a2.md) : Capacitive sensing
+* [ch5/figs/a3](ch5/figs/a3.md) : Infrared non-contact sensors
 
