@@ -7,7 +7,7 @@ Book authors:
   [Caroline Hummels](https://www.tue.nl/en/research/researchers/caroline-hummels/)
 
 Web companion entries
-=====================
+---------------------
 
 *Chapter 1*
 * [ch1/figs/a1](ch1/figs/a1.md) : Luba Lukasa memory board; orrery; Panama Canal control interface
