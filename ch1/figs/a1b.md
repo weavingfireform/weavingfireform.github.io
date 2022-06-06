@@ -3,27 +3,4 @@
 [lukLink]: <a href="https://commons.wikimedia.org/wiki/File:Lukasa_board_used_in_initiation_of_the_Mbudye_secret_society,_Luba_people,_from_Shaba_district_of_Zaire,_mid_20th_century,_wood_-_Maps_of_Africa_-_Robert_C._Williams_Paper_Museum_-_DSC00662.JPG">
 [lukImage]: <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Lukasa_board_used_in_initiation_of_the_Mbudye_secret_society%2C_Luba_people%2C_from_Shaba_district_of_Zaire%2C_mid_20th_century%2C_wood_-_Maps_of_Africa_-_Robert_C._Williams_Paper_Museum_-_DSC00662.JPG" height=200>
 
-<table><tr><td align=right>
-<a href="
-
-
-">
-<td><b>Luba Lukasa memory board</b> :
-<a href="https://www.khanacademy.org/humanities/ap-art-history/africa-apah/central-africa-apah/a/lukasa-memory-board-luba-peoples">Khan Academy</a>,
-<a href="https://en.wikipedia.org/wiki/Lukasa_(Luba)">Wikipedia</a>,
-Roberts and Roberts 1996b, 
-    Ullmer 2012,
-    Chu et al. 2015; 
-<a href="https://commons.wikimedia.org/wiki/File:Lukasa_board_used_in_initiation_of_the_Mbudye_secret_society,_Luba_people,_from_Shaba_district_of_Zaire,_mid_20th_century,_wood_-_Maps_of_Africa_-_Robert_C._Williams_Paper_Museum_-_DSC00662.JPG">Wikimedia image</a> by 
-<a href="https://commons.wikimedia.org/wiki/User:Daderot">Daderot</a>, CC0
-</td></tr><tr><td width="50%" align=right>
-<a href="https://en.wikipedia.org/wiki/Orrery#/media/File:Frederiksborg_slot_-_Museum_20090818_28.JPG">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Frederiksborg_slot_-_Museum_20090818_28.JPG/1920px-Frederiksborg_slot_-_Museum_20090818_28.JPG" 
-  height=200>
-</a></td><td><b>Orrery</b> : 
-<a href="https://en.wikipedia.org/wiki/Orrery">Wikipedia</a>;
-<a href="https://en.wikipedia.org/wiki/Orrery#/media/File:Frederiksborg_slot_-_Museum_20090818_28.JPG">Wikimedia image</a> by
-<a href="https://commons.wikimedia.org/wiki/User:Politikaner">Politkaner</a>, CC BY-SA 3.0
-</td></tr><tr><td></td><td>Panama Canal control interface. Internet Archive Book
-Images from Carnegie Library of Pittsburgh </td>
-
+[lukLink] [lukImage] </a>
