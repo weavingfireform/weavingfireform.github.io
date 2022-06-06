@@ -23,5 +23,8 @@ Web companion entries
 * [ch5/figs/a7](ch5/figs/a7.md) : Olfactory technology examples
 
 *Chapter 6*
-* [ch6/figs/a1](ch5/figs/a1.md) : Stelarc, Third Hand
-* [ch6/figs/a2](ch5/figs/a2.md) : Schlemmer's Triadic Ballet
+* [ch6/figs/a1](ch6/figs/a1.md) : Stelarc, Third Hand
+* [ch6/figs/a2](ch6/figs/a2.md) : Schlemmer's Triadic Ballet
+
+*Chapter 8*
+* [ch8/figs/a1](ch8/figs/a1.md) : Parallel Eyes, Channel Surfers, BioSync
