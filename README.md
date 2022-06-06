@@ -13,7 +13,7 @@ Web companion entries
 * [ch1/figs/a1](ch1/figs/a1.md) : Luba Lukasa memory board; orrery; Panama Canal control interface
 * [ch1/figs/a2](ch1/figs/a2.md) : Wearable Motherboard vest and controller 
 
-*Chapter 5*
+<h3>*Chapter 5*</h3>
 * [ch5/figs/a1](ch5/figs/a1.md) : Magnetic sensors
 * [ch5/figs/a2](ch5/figs/a2.md) : Capacitive sensing
 * [ch5/figs/a3](ch5/figs/a3.md) : Infrared non-contact sensors
