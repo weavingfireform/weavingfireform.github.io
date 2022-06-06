@@ -7,17 +7,15 @@ Book authors:
   and 
   [Caroline Hummels](https://www.tue.nl/en/research/researchers/caroline-hummels/)
 
-Web companion entries
-=====================
+ACM "Weaving Fire Into Form" Web companions
+===========================================
 
-Chapter 1
----------
+*Chapter 1*
 
 * [ch1/figs/a1](ch1/figs/a1.md) : Luba Lukasa memory board; orrery; Panama Canal control interface
 * [ch1/figs/a2](ch1/figs/a2.md) : Wearable Motherboard vest and controller 
 
-Chapter 5
----------
+*Chapter 5*
 
 * [ch5/figs/a1](ch5/figs/a1.md) : Magnetic sensors
 * [ch5/figs/a2](ch5/figs/a2.md) : Capacitive sensing
