@@ -29,3 +29,5 @@ Web companion entries
 *Chapter 8*
 * [ch8/figs/a1](ch8/figs/a1.md) : Parallel Eyes, Channel Surfers, BioSync
 * [ch8/figs/a1](ch8/figs/a2.md) : Silk Pavilion
+
+*Theme by [mattgraham](https://twitter.com/mattgraham)*
